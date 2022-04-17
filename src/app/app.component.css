@@ -1,0 +1,12 @@
+.app{
+    background-image: url("https://www.imgbase.info/images/safe-wallpapers/photography/sky/55880_sky_night_sky_full_of_stars.jpg");
+    background-repeat: no-repeat;
+    opacity: 0.9;
+    filter: alpha(opacity=60);
+}
+
+app:hover {
+    opacity: 0.5;
+    filter: alpha(opacity=50);
+  }
+  

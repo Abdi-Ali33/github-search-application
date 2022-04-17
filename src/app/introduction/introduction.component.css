@@ -1,0 +1,10 @@
+a{
+    float:right;
+}
+.jumbotron{
+    font-size: 20px; 
+    opacity: 0.5;
+    filter: alpha(opacity=20);
+    color: black;
+    padding: 20%;
+}

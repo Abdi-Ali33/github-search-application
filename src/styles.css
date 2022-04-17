@@ -1,0 +1,82 @@
+@import "~bootstrap/dist/css/bootstrap.css";
+
+form {
+  padding: 60px;
+}
+
+#form {
+  position: relative !important;
+  background-image: url("https://www.imgbase.info/images/safe-wallpapers/photography/sky/55880_sky_night_sky_full_of_stars.jpg");
+  top: 5px;
+  margin: 5px 5px 20px 5px;
+}
+
+#form .btn {
+  background-color: #fff;
+  color: #4d004d;
+  border-radius: 10px;
+}
+
+#form .btn:hover {
+  background-color: #000000;
+  color: #fff;
+  border: 2px solid #fff;
+}
+
+.panel .panel-heading {
+  /* background-color: #075c69; */
+  color: #fff;
+}
+
+.panel {
+  border: 1px solid #000000;
+  background-image: url("https://www.imgbase.info/images/safe-wallpapers/photography/sky/55880_sky_night_sky_full_of_stars.jpg");
+  background-repeat: no-repeat;
+  opacity: 0.9;
+  filter: alpha(opacity=60);
+  height: 100%;
+}
+
+.label {
+  color: #fff;
+  margin-left: 4px;
+
+}
+
+.btn {
+  background-color: #000000;
+  color: #fff;
+}
+
+.btn:hover {
+  background-color: #fff;
+  color: rgb(22, 1, 22);
+  ;
+  border: 2px solid #000000;
+}
+
+p {
+  border: 2px solid white;
+  border-radius: 10px;
+  opacity: 0.9;
+  filter: alpha(opacity=70);
+  color: aliceblue;
+
+
+}
+
+p:hover {
+  background-color: rgb(22, 1, 22);
+  color: aliceblue;
+  border: 2px solid #000000;
+}
+
+h4:hover {
+  background-color: rgb(22, 1, 22);
+  color: aliceblue;
+
+}
+
+body {
+  background-image: url('./assets/image13.jpg');
+}

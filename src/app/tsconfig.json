@@ -1,0 +1,29 @@
+
+{
+    "compileOnSave": true,
+    "compilerOptions": {
+        "module": "commonjs",
+        "target": "es5",
+        "experimentalDecorators": true,
+        "allowJs": true,
+        "noImplicitAny": false,
+        "strictNullChecks": true,
+        "alwaysStrict": true,
+        "preserveConstEnums": true,
+        "sourceMap": false,
+        "moduleResolution": "Node",
+        "lib": [
+            "dom",
+            "es2015",
+            "es5",
+            "es6"
+        ]
+    },
+    "include": [
+        "*",
+        "src/**/*"
+    ],
+    "exclude": [
+        "./node_modules"
+    ]
+}
