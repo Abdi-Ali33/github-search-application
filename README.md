@@ -67,7 +67,9 @@ SOFTWARE.
 
 # live link
 
-One can access the live website using this link https://loisemwarangu.github.io/git-search/
+## Live Link
+
+[Here is live link to the site]
 
 ## Authors Info
 
