@@ -66,11 +66,9 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-# live link
-
 ## Live Link
 
-[Here is live link to the site]
+[Here is live link to the site](https://abdi-ali33.github.io/github-search-application/)
 
 ## Authors Info
 
