@@ -40,7 +40,6 @@ form {
 .label {
   color: #fff;
   margin-left: 4px;
-
 }
 
 .btn {
@@ -51,7 +50,6 @@ form {
 .btn:hover {
   background-color: #fff;
   color: rgb(22, 1, 22);
-  ;
   border: 2px solid #000000;
 }
 
@@ -61,8 +59,6 @@ p {
   opacity: 0.9;
   filter: alpha(opacity=70);
   color: aliceblue;
-
-
 }
 
 p:hover {
@@ -72,13 +68,10 @@ p:hover {
 }
 
 h4:hover {
-  background-color:  rgb(22, 1, 22);
+  background-color: rgb(22, 1, 22);
   color: aliceblue;
-
-
 }
 
-
 body {
-  background-image: url('./assets/image13.jpg');
+  background-image: url("./assets/image13.jpg");
 }
