@@ -17,7 +17,7 @@ This is a website where users may enter a GitHub username into a form, submit it
 - An internet connection is important
 - You need to have git installed You can install it with the following command in your terminal $ sudo apt install git-all
 
-## Setup
+## Installation / Setup instruction
 
 To access this project on your local files, you can clone it using these steps
 
