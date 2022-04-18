@@ -19,10 +19,13 @@ export class GitsearchService {
   FinalUrl ="?client_id=63803c21ae36ca102d8f&client_secret=035207e594845697a248822218ac167e7735bb0b";
   Api= "a746b62e5db077d41d84600a3fa6df484f1d8579"
   ;
-  
+  //3576b45f563f04b01adf
+
+  //60e5ef73d9f320ef74f014cc95e54f323172e569
+  //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
 
   constructor(private http: Http) {
-    this.username = "LoiseMwarangu";
+    this.username = "abdi-ali33";
     this.user= new User ("","","",0,0,0,"");
     this.repos = new Repository("","","");
     this.reposArray = [];
@@ -38,7 +41,7 @@ export class GitsearchService {
       public_repository:number;
       html_url:string;
     }
-    
+
     let promise = new Promise((resolve,reject)=>{
       this.http.get(this.BaseUrl + this.username + this.FinalUrl).toPromise().then(response=>{
         this.user.name = response.json().name;
@@ -75,7 +78,7 @@ export class GitsearchService {
         this.repos.description = repository.description;
         this.repos = new Repository("","","");
         this.reposArray.push(this.repos);
-          } 
+          }
         resolve()
         console.log("two");
         console.log(response);
