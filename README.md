@@ -29,10 +29,11 @@ To access this project on your local files, you can clone it using these steps
 ## Technologies Used
 
 - This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.4.
-- HTML
-- CSS
-- Angular js
-- Git
+- [HTML5](https://github.com/topics/html5)
+- [CSS](https://github.com/topics/css3)
+- [AngulerCLI]
+- markdown
+- [Bootstrap](https://github.com/topics/bootstrap)
 
 ### Program Behaviour
 
