@@ -17,7 +17,7 @@ export class GitsearchComponent implements OnInit {
   repository:Repository;
   public username:string;
   reposArray:any[];
-  
+
 
   constructor(private gitSearch:GitsearchService ) { }
 
