@@ -69,6 +69,8 @@ SOFTWARE.
 
 One can access the live website using this link https://loisemwarangu.github.io/git-search/
 
-# License
+## Authors Info
 
-This project is under the MIT licence
+Slack Profile - [Abdi Ali](https://app.slack.com/client/T0101L740P4/D032HD8S7CP)
+
+Github Profile- https://github.com/Abdi-Ali33
